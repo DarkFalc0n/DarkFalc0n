@@ -8,7 +8,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" /> </p>
  
  <br>
-  I am a UI-UX designer and a creative web designer and frontend developer from India. I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences. Besides, I am passionate about Game Development for various platforms. I like to solve real life problems with code and design.
+  I am a UI-UX designer and a creative web designer and frontend developer from India. I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences. Besides, I am passionate about game development for various platforms. I like to solve real life problems with code and design.
  
   <br>
   <br>
