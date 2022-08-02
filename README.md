@@ -16,7 +16,7 @@
   ### 🧑  I am a student . . . 
   ####   &nbsp;&nbsp;&nbsp;&nbsp; - at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) 🏫
   ####   &nbsp;&nbsp;&nbsp;&nbsp; - studying Information Tecnology 🖥️
-  ####   &nbsp;&nbsp;&nbsp;&nbsp; - in the 1st year 🎓
+  ####   &nbsp;&nbsp;&nbsp;&nbsp; - in the 2nd year 🎓
   
   <br>
 <h3> 🔧  My Tools <h3>
