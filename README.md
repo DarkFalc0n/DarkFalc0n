@@ -1,11 +1,15 @@
 ![github_banner](https://user-images.githubusercontent.com/59203815/156449330-00ecf9e4-276d-4f3e-905d-3317882899be.png)  
 
 <br>
-<h1 align="center">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" />
+  [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/darkfalc0n?tab=followers)
+</p>
+ 
+<h2 align="center">
   Hi there 👋 I am Pratyay, nice to meet you 😇
- </h1>
- <br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" /> </p>
+</h2>
  
  <br>
   I am a UI-UX designer and a creative web designer and frontend developer from India. I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences. Besides, I am passionate about game development for various platforms. I like to solve real life problems with code and design.
