@@ -19,7 +19,7 @@
   ####   &nbsp;&nbsp;&nbsp;&nbsp; - in the 2nd year 🎓
   
   <br>
-<h3> Hacktoberfest 2022 </h3>
+<h3> 🧑‍💻 Hacktoberfest 2022 </h3>
 
 [![@darkfalc0n's board](https://holopin.me/darkfalc0n)](https://holopin.io/@darkfalc0n)
 
