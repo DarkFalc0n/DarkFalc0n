@@ -4,8 +4,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" />
-  [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/darkfalc0n?tab=followers)
-</p>
+  ![Github](https://badgen.net/badge/:Creative/:Developer/:red?icon=github)
  
 <h2 align="center">
   Hi there 👋 I am Pratyay, nice to meet you 😇
