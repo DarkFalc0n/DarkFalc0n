@@ -5,18 +5,15 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" />
  
-<h2 align="center">
-  Hi there 👋 I am Pratyay, nice to meet you 😇
-</h2>
+<h3 align="left">
+  Hi there 👋.
+</h3>
+<h1 align="left"> I'm Pratyay Roy </h1>
  
  <br>
   I am a UI-UX designer and a creative web designer and frontend developer from India. I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences. Besides, I am passionate about game development for various platforms. I like to solve real life problems with code and design.
  
-  <br>
-  <br>
-  
-🧑  I am a student at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) 🏫studying Information Tecnology 🖥️ in the 2nd year 🎓
-  
+  <br>  
   <br>
 <h3> 🧑‍💻 Hacktoberfest 2022 </h3>
 
