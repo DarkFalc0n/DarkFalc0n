@@ -4,7 +4,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=ff8200&style=flat" alt="darkfalc0n" />
-  ![Github](https://badgen.net/badge/:Creative/:Developer/:red?icon=github)
  
 <h2 align="center">
   Hi there 👋 I am Pratyay, nice to meet you 😇
