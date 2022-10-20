@@ -15,10 +15,7 @@
   <br>
   <br>
   
-🧑  I am a student . . . 
-&nbsp;&nbsp;&nbsp;&nbsp; at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) 🏫
-&nbsp;&nbsp;&nbsp;&nbsp; studying Information Tecnology 🖥️
-&nbsp;&nbsp;&nbsp;&nbsp; in the 2nd year 🎓
+🧑  I am a student at [Jalpaiguri Government Engineering College](https://jgec.ac.in/) 🏫studying Information Tecnology 🖥️ in the 2nd year 🎓
   
   <br>
 <h3> 🧑‍💻 Hacktoberfest 2022 </h3>
