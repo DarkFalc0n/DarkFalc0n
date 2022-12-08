@@ -34,7 +34,7 @@
 </p>
   <br><br>
   <h3>📊 My Stats</h3><br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=merko" /><br>
+    <figure><embed src="https://wakatime.com/share/@darkfalc0n/ca9b0670-6489-48c1-8bab-c6bc7ae4a237.svg"></embed></figure>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkfalc0n&show_icons=true&locale=en&layout=compact" alt="darkfalc0n" /></p>
   <br>
   <br>
