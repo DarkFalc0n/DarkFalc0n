@@ -34,8 +34,10 @@
 </p>
   <br><br>
   <h3>📊 My Stats</h3><br><br>
-    <figure><embed src="https://wakatime.com/share/@darkfalc0n/ca9b0670-6489-48c1-8bab-c6bc7ae4a237.svg"></embed></figure>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkfalc0n&show_icons=true&locale=en&layout=compact" alt="darkfalc0n" /></p>
+  
+  <p align="center">
+    <img src="https://wakatime.com/share/@darkfalc0n/e12811a3-7b9e-4c2d-870b-344a179f9cef.png" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkfalc0n&show_icons=true&locale=en&layout=compact" alt="darkfalc0n" /></p>
   <br>
   <br>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&locale=en" alt="darkfalc0n" /></p>
