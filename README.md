@@ -36,7 +36,7 @@
   <h3>📊 My Stats</h3><br><br>
   
   <p align="center">
-    <img src="https://wakatime.com/share/@darkfalc0n/e12811a3-7b9e-4c2d-870b-344a179f9cef.png" />
+    <img src="https://wakatime.com/share/@darkfalc0n/e12811a3-7b9e-4c2d-870b-344a179f9cef.png" width="640px"/> <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkfalc0n&show_icons=true&locale=en&layout=compact" alt="darkfalc0n" /></p>
   <br>
   <br>
