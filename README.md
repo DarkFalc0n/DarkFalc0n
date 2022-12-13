@@ -37,7 +37,7 @@
   
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=merko" />
   <br>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n" /></p>
 
