@@ -15,9 +15,6 @@
  
   <br>  
   <br>
-<h3> 🧑‍💻 Hacktoberfest 2022 </h3>
-
-[![@darkfalc0n's board](https://holopin.me/darkfalc0n)](https://holopin.io/@darkfalc0n)
 
 <h3> 🔧  My Tools <h3>
   <p align="left">    
