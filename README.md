@@ -35,11 +35,10 @@
 <a href="https://www.codechef.com/users/darkfalc0n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darkfalc0n" height="30" width="40" /></a>
 </p>
   <br><br>
-  <h3>My Stats</h3><br><br>
-  
+  <h3>My Stats</h3><br><br>  
   <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula" /> <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical" />
-  <br>
-  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula"><br> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical"><br> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n">
+  </p>
 
