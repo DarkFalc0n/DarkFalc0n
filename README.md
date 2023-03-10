@@ -11,7 +11,12 @@
 <h1 align="left"> I'm Pratyay Roy </h1>
  
  <br>
-  I am a UI-UX designer and a creative web designer and frontend developer from India. I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences. Besides, I am passionate about game development for various platforms. I like to solve real life problems with code and design.
+ 
+  - I am a UI-UX designer and a creative web designer and frontend developer 🧑‍💻 
+  - I'm from India 🇮🇳
+  - I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences 🧊
+  - I am passionate about game development for various platforms 🎮
+  - I like to solve real life problems with code and design ✏️
  
   <br>  
   <br>
