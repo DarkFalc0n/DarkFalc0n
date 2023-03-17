@@ -3,7 +3,7 @@
 <br>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=blue&style=for-the-badge" alt="darkfalc0n" />
+  <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=orange&style=for-the-badge" alt="darkfalc0n" />
  
 <h3 align="left">
   Hi there 👋.
