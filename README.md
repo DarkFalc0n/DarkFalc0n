@@ -39,7 +39,7 @@
   <table>
     <tr>
       <td align="center">        
-        <img align="center" src="https://stats.quine.sh/DarkFalc0n/github?theme=dark" height=400>   
+        <img align="center" src="https://stats.quine.sh/DarkFalc0n/github?theme=dark" height=400 width=300>   
       </td>
       <td align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula" height=400>    
@@ -47,7 +47,7 @@
     </tr>
         <tr>
       <td align="center">        
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical" height=200>   
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical" width=500>   
       </td>
       <td align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n" height=200>    
