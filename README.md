@@ -12,11 +12,11 @@
  
  <br>
  
-  - I am a UI-UX designer and a creative web designer and frontend developer 🧑‍💻 
-  - I'm from India 🇮🇳
-  - I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences 🧊
-  - I am passionate about game development for various platforms 🎮
-  - I like to solve real life problems with code and design ✏️
+  - ##### I'm from India 🇮🇳
+  - ##### I am currently learning Go 🧑‍💻 
+  - ##### I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences 🧊
+  - ##### I am passionate about game development for various platforms 🎮
+  - ##### I like to solve real life problems with code and design ✏️
  
   <br>  
   <br>
@@ -31,8 +31,7 @@
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://linkedin.com/in/linklol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linklol" height="30" width="40" /></a>
-<a href="https://instagram.com/pratyay_design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyay_design" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/darkfalc0n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darkfalc0n" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/roy.alt.ea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyay_design" height="30" width="40" /></a>
 </p>
   <br><br>
   <h3>My Stats</h3><br><br> 
