@@ -11,13 +11,11 @@
 <h1 align="left"> I'm Pratyay Roy </h1>
  
  <br>
- 
-  - ##### I'm from India 🇮🇳
-  - ##### I am currently learning Go 🧑‍💻 
-  - ##### I also take keen interest in 3D modelling and I often use my 3D models to create WebGL experiences 🧊
-  - ##### I am passionate about game development for various platforms 🎮
-  - ##### I like to solve real life problems with code and design ✏️
- 
+ 🇮🇳 I'm from India. <br> 
+ 🧑‍💻 I am currently learning Go. <br> 
+ 🧊 I love 3D modelling and WebGL. <br> 
+ 🎮 I am passionate about game development for various platforms. <br> 
+ ✏️ I am a hackathon freak.  <br> 
   <br>  
   <br>
 
@@ -28,29 +26,16 @@
 <br>
 <br>
   
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linklol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linklol" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/roy.alt.ea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyay_design" height="30" width="40" /></a>
 </p>
   <br><br>
-  <h3>My Stats</h3><br><br> 
-  <table>
-    <tr>
-      <td align="center">        
-        <img align="center" src="https://stats.quine.sh/DarkFalc0n/github?theme=dark" height=400 width=300>   
-      </td>
-      <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula" height=400>    
-      </td>
-    </tr>
-        <tr>
-      <td align="center">        
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical" width=500>   
-      </td>
-      <td align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n" height=200>    
-      </td>
-    </tr>       
-  </table>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=darkfalc0n&layout=compact&theme=dracula" height=600>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfalc0n&show_icons=true&theme=radical" width=400>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkfalc0n&" alt="darkfalc0n" height=150>
+      
+   
+
 
