@@ -4,6 +4,8 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=darkfalc0n&label=Profile%20views&color=orange&style=for-the-badge" alt="darkfalc0n" />
+  &nbsp;
+  <a href="https://buymeacoffee.com/darkfalc0n"> <img src="https://miro.medium.com/v2/resize:fit:1090/0*lHgOW3tB_MfDAlBf.png" width=100 alt="darkfalc0n" /></a>
  
 <h3 align="left">
   Hi there 👋.
