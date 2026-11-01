@@ -13,7 +13,7 @@
 
 
 
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=darkfalc0n&theme=github-dark&config=https%3A%2F%2Fgithub.com%2FDarkFalc0n%2FDarkFalc0n%2Fblob%2Fmain%2Fneofetch.json)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=darkfalc0n&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FDarkFalc0n%2FDarkFalc0n%2Frefs%2Fheads%2Fmain%2Fneofetch.json)
 <br>
       
    
