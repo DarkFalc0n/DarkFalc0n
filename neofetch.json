@@ -1,4 +1,7 @@
 {
+  
+  "image": "https://raw.githubusercontent.com/DarkFalc0n/DarkFalc0n/refs/heads/main/ascii-art.png",
+  "removeBackground": true,  
   "sections": [
     {
       "title": "{{username}}@github",
