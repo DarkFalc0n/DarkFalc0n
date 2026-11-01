@@ -13,21 +13,20 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "IDE", "value": "VSCode, OpenCode" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Hobbies.Software", "value": "WebGL, JS, C++" },
       ]
     },
     {
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Website", "value": "https://pratyay.dev" },
+        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/pratyayroy" }
       ]
     }
   ],
